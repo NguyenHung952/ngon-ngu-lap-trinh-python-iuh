@@ -1,40 +1,172 @@
-# 🐍 Bài Tập Python - Môn Ngôn Ngữ Lập Trình Python
+# 🐍 Bài Tập Python - Môn Ngôn Ngữ Lập Trình Python 🐍
 
-Đây là repository lưu trữ toàn bộ các bài tập thực hành của môn **Ngôn ngữ Lập trình Python**, được thực hiện trong quá trình học tại Trường Đại học Công nghiệp TP.HCM.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/Programming-Language-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/IUH-Assignments-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
 
-## 🎯 Mục tiêu môn học
-
-- Làm quen với cú pháp và tư duy lập trình Python
-- Xây dựng các chương trình giải quyết bài toán thực tế
-- Hiểu và vận dụng các cấu trúc dữ liệu như list, tuple, dict, set
-- Luyện tập hàm, module, class, và xử lý file
-
-## 📁 Danh sách bài tập
-
-| Tuần | Tên bài | Nội dung |
-|------|---------|----------|
-| 1    | `hello_world.py` | In dòng chào, làm quen với Python |
-| 2    | `basic_calc.py` | Viết chương trình tính toán đơn giản |
-| 3    | `list_processing.py` | Thao tác với danh sách (list) |
-| 4    | `function_demo.py` | Định nghĩa và sử dụng hàm |
-| 5    | `oop_intro.py` | Giới thiệu lập trình hướng đối tượng |
-| 6    | `file_handling.py` | Đọc ghi file văn bản |
-| 7    | `mini_project/` | Bài tập lớn hoặc ứng dụng nhỏ |
-
-> 📌 Các bài tập được viết bằng Python 3, mỗi bài có chú thích đầy đủ để dễ hiểu và chạy được ngay.
-
-## 🛠 Yêu cầu phần mềm
-
-- Python 3.8+ (khuyến khích dùng bản mới nhất)
-- Visual Studio Code, PyCharm hoặc trình soạn thảo bạn yêu thích
-- Không cần thư viện bên ngoài cho các bài tập cơ bản
-
-## 👨‍💻 Tác giả
-
-Nguyễn Ngọc Hùng – DHDTVT16A  
-Khoa Điện - Điện Tử – Đại học Công nghiệp TP.HCM  
-📅 Niên khóa: 2020 – 2026
+<p align="center">
+  💻 Tổng hợp bài tập và thực hành môn Ngôn Ngữ Lập Trình Python tại IUH.
+</p>
 
 ---
 
-> 📬 Rất mong nhận được góp ý, phản hồi để cải thiện các bài tập Python tốt hơn!
+# 📖 Giới thiệu
+
+Repository này lưu trữ các bài tập và bài thực hành thuộc môn:
+
+> **Ngôn Ngữ Lập Trình Python**
+
+Nội dung bao gồm:
+
+- 🐍 Python cơ bản
+- 📂 Xử lý dữ liệu
+- 🔁 Cấu trúc điều khiển
+- 🧮 Hàm và module
+- 📊 Bài tập thực hành
+- 💡 Mini project đơn giản
+
+Repository được tạo nhằm:
+
+- Hỗ trợ học tập
+- Lưu trữ source code
+- Ôn tập kiến thức Python
+- Tham khảo cho sinh viên
+
+---
+
+# 📂 Cấu trúc Repository
+
+```bash
+ngon-ngu-lap-trinh-python-iuh/
+│
+├── bai_tap_python_1.zip
+├── bai_tap_python_2.zip
+├── bai_tap_python_3.zip
+├── bai_tap_python_4.zip
+├── bai_tap_python_5.zip
+├── bai_tap_python_6.zip
+├── bai_tap_python_7.zip
+├── bai_tap_python_8.zip
+├── bai_tap_python_9.zip
+├── bai_tap_python_10.zip
+├── bai_tap_python_11.zip
+├── bai_tap_python_12.zip
+└── README.md
+```
+
+Mỗi file `.zip` có thể bao gồm:
+
+- Source code Python
+- File bài tập
+- Mini project
+- Hướng dẫn thực hành
+
+---
+
+# 🛠 Công nghệ sử dụng
+
+| Công nghệ | Vai trò |
+|---|---|
+| Python 3 | Ngôn ngữ lập trình chính |
+| VS Code | Môi trường phát triển |
+| Git & GitHub | Quản lý source code |
+
+---
+
+# 📚 Nội dung học tập
+
+## 📌 Python Basics
+- Variables
+- Data Types
+- Operators
+- Input / Output
+
+## 📌 Control Structures
+- Conditions
+- Loops
+- Exception Handling
+
+## 📌 Functions & Modules
+- Functions
+- Import Modules
+- File Handling
+
+## 📌 Advanced Topics
+- OOP cơ bản
+- Data Processing
+- Mini Applications
+
+---
+
+# 🎯 Mục tiêu dự án
+
+- Thực hành Python từ cơ bản đến nâng cao
+- Rèn luyện tư duy lập trình
+- Làm quen với giải quyết bài toán thực tế
+- Xây dựng nền tảng cho AI và Automation
+
+---
+
+# ▶️ Hướng dẫn sử dụng
+
+## Clone repository
+
+```bash
+git clone https://github.com/your-username/ngon-ngu-lap-trinh-python-iuh.git
+```
+
+## Giải nén bài tập
+
+```bash
+Extract *.zip
+```
+
+## Chạy file Python
+
+```bash
+python filename.py
+```
+
+---
+
+# 📸 Điểm nổi bật
+
+✨ Tổng hợp đầy đủ bài tập Python  
+✨ Source code dễ đọc và dễ hiểu  
+✨ Phù hợp cho sinh viên mới học lập trình  
+✨ Hỗ trợ học tập và ôn tập kiến thức  
+✨ Có thể dùng làm tài liệu tham khảo
+
+---
+
+# ⚠️ Lưu ý
+
+Repository được chia sẻ nhằm mục đích:
+
+- Học tập
+- Tham khảo
+- Nghiên cứu
+
+Không khuyến khích sao chép nguyên bài cho mục đích nộp bài trực tiếp.
+
+---
+
+# 👨‍💻 Author
+
+**Nguyễn Ngọc Hùng**  
+Sinh viên Điện tử Viễn thông – IUH
+
+---
+
+# ⭐ Support
+
+Nếu repository hữu ích, hãy để lại một ⭐ cho project.
+
+---
+
+<p align="center">
+  Made with ❤️ using Python
+</p>
